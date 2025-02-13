@@ -58,6 +58,8 @@ Contributions are welcome! Please submit a pull request with your proposed chang
 
 ## Google GDE Sprint
 
+Google Cloud credits are provided for this project.
+
 #VertexAISprint
 
 ## License
