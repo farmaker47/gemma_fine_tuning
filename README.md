@@ -56,6 +56,10 @@ This repository contains:
 
 Contributions are welcome! Please submit a pull request with your proposed changes.
 
+## Google GDE Sprint
+
+#VertexAISprint
+
 ## License
 
 Apache 2.0
